@@ -6,11 +6,11 @@
 /*   By: hguo <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/03 11:05:00 by hguo              #+#    #+#             */
-/*   Updated: 2025/05/04 13:52:01 by hguo             ###   ########.fr       */
+/*   Updated: 2025/05/04 17:49:52 by hguo             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 // #include <fcntl.h>
 // #include <stdio.h>
 

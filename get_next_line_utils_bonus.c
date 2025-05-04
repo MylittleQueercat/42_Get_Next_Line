@@ -6,11 +6,11 @@
 /*   By: hguo <marvin@42.fr>                        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/05/03 11:12:30 by hguo              #+#    #+#             */
-/*   Updated: 2025/05/03 11:13:22 by hguo             ###   ########.fr       */
+/*   Updated: 2025/05/04 17:43:20 by hguo             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(char const *str)
 {
