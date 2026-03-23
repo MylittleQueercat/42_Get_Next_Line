@@ -1,4 +1,8 @@
-# 📖 Get Next Line — 42 Project | 125/125
+# 📖 Get Next Line
+
+![Score](https://img.shields.io/badge/Score-125%2F125-brightgreen)
+![Language](https://img.shields.io/badge/Language-C-blue)
+![42](https://img.shields.io/badge/42-Project-black)
 
 ## 📌 Project Goal
 
